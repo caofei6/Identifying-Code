@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Identifying Code"
+  id="myeclipse.1471490785304"
+  context-root="/Identifying Code"
+  j2ee-spec="6.0"
+  archive="Identifying Code.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
